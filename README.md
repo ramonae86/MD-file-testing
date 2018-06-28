@@ -24,39 +24,39 @@
     - *either user go to register page or successfully logged in*
 
 - *Register page*
-- *A page takes user input as arguments to set up a new player profile*
-- *user clicked on Register at Login page*
-- *either user clicked cancel or user clicked submit and unique username checked and successfully created a player profile*
+    - *A page takes user input as arguments to set up a new player profile*
+    - *user clicked on Register at Login page*
+    - *either user clicked cancel or user clicked submit and unique username checked and successfully created a player profile*
 
 - *Main menu*
-- *A welcome page that allows users to choose from: 1, create a cryptogram, 2, view uncompleted list(and potentially choose one to solve), 3, view completed list, 4, view cryptogram statistics*
-- *once user login or user choose to go back to main menu at any time*
-- *user selected one item*
+    - *A welcome page that allows users to choose from: 1, create a cryptogram, 2, view uncompleted list(and potentially choose one to solve), 3, view completed list, 4, view cryptogram statistics*
+    - *once user login or user choose to go back to main menu at any time*
+    - *user selected one item*
 
 - *Cryptogram creation*
-- *A page that allows user to create a cryptogram*
-- *when user click on create a cryptogram on main menu*
-- *either user click cancel, or user click finish and all entries are verified valid*
+    - *A page that allows user to create a cryptogram*
+    - *when user click on create a cryptogram on main menu*
+    - *either user click cancel, or user click finish and all entries are verified valid*
 
 - *Uncompleted list of cryptograms*
-- *A page that displays all uncompleted cryptograms by the current user and allow him/her to choose one to solve*
-- *when user click on view uncompleted list on main menu*
-- *either user click cancel, or user choose one to solve*
+    - *A page that displays all uncompleted cryptograms by the current user and allow him/her to choose one to solve*
+    - *when user click on view uncompleted list on main menu*
+    - *either user click cancel, or user choose one to solve*
 
 - *Completed list of cryptograms*
-- *A page that displays all completed cryptograms by the current user and shows whether it was solved and the date completed*
-- *when user click on view completed list on main menu*
-- *user clicks cancel*
+    - *A page that displays all completed cryptograms by the current user and shows whether it was solved and the date completed*
+    - *when user click on view completed list on main menu*
+    - *user clicks cancel*
 
 - *Solve cryptogram*
-- *A page that allows players to solve a cryptogram*
-- *when user choose one cryptogram from the uncompleted list*
-- *user clicks submit or cancel*
+    - *A page that allows players to solve a cryptogram*
+    - *when user choose one cryptogram from the uncompleted list*
+    - *user clicks submit or cancel*
 
 - *Cryptogram statistics*
-- *A page that displays all the cryptograms and display some statistics of the cryptogram the user chose*
-- *when user click on view cryptogram statistics on main menu*
-- *user clicks cancel*
+    - *A page that displays all the cryptograms and display some statistics of the cryptogram the user chose*
+    - *when user click on view cryptogram statistics on main menu*
+    - *user clicks cancel*
 
 ## 3 Team
 
@@ -68,7 +68,7 @@
     - Quality Assurance (QA)
     - Project Manager (PM)
     - Subject Matter Expert  (SME)*
-- | Name        | DEV | QA | PM | SME     |
+| Name        | DEV | QA | PM | SME     |
 |-------------|-----|----|----|---------|
 |Radhika Gouni|  X  |  X |    |         |
 |Kamran Jiwani|  X  |  X |    |    X    |
