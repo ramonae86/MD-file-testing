@@ -13,9 +13,9 @@
 *Project development process description as a set of activities; for each activity, provide the following:*
 
 - *Activity name (verb or verb phrase)*
-- *Activity description (concise paragraph)*
-- *Entrance criteria (inputs needed for the activity)*
-- *Exit criteria (outputs produced by the activity and how you know it has been completed satisfactorily)*
+    - *Activity description (concise paragraph)*
+    - *Entrance criteria (inputs needed for the activity)*
+    - *Exit criteria (outputs produced by the activity and how you know it has been completed satisfactorily)*
 
 
 - *Login page*
