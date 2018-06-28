@@ -19,9 +19,9 @@
 
 
 - *Login page*
-- *A welcome page that allows users to log in or go to register page*
-- *when no player has been logged in*
-- *either user go to register page or successfully logged in*
+    - *A welcome page that allows users to log in or go to register page*
+    - *when no player has been logged in*
+    - *either user go to register page or successfully logged in*
 
 - *Register page*
 - *A page takes user input as arguments to set up a new player profile*
