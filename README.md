@@ -68,6 +68,7 @@
     - Quality Assurance (QA)
     - Project Manager (PM)
     - Subject Matter Expert  (SME)*
+
 | Name        | DEV | QA | PM | SME     |
 |-------------|-----|----|----|---------|
 |Radhika Gouni|  X  |  X |    |         |
